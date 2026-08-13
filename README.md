@@ -1,4 +1,5 @@
 week1  1.1[click here](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
 week1  2.1[click here](https://www.hackerrank.com/challenges/java-sort/problem)
 week1  2.2[click here](https://leetcode.com/problems/sort-array-by-parity/submissions/2105033696/)
-week 1 3.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
+week1  3.1[click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
+week1  3.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)

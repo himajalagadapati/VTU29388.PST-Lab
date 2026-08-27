@@ -10,3 +10,4 @@ week1 5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions
 week2  6.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2121530022/)
 week2  6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2121545934/)
 week2  7.1[click here](https://leetcode.com/problems/remove-element/submissions/2121569707/)
+week2  7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2121602873/)

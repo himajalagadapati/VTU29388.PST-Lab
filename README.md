@@ -7,6 +7,6 @@ week1  4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/sub
 week1  4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2105073109/)
 week1  5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105086775/)
 week1 5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2105099434/)
-week2  1.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2121530022/)
-week2 1.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2121545934/)
-
+week2  6.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2121530022/)
+week2  6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2121545934/)
+week2  7.1[click here](https://leetcode.com/problems/remove-element/submissions/2121569707/)

@@ -19,7 +19,7 @@ week2  10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/probl
 week2  10.2[click here](https://www.hackerrank.com/challenges/java-hashset/problem)
 week3  11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/problem)
 week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/submissions/2128101398/)
-
+week3  12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/2128109655/)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

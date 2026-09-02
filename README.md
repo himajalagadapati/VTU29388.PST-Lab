@@ -19,3 +19,15 @@ week2  10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/probl
 week2  10.2[click here](https://www.hackerrank.com/challenges/java-hashset/problem)
 week3  11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/problem)
 week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/submissions/2128101398/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+## String
+|  |
+| ------- |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+<!---LeetCode Topics End-->

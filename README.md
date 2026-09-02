@@ -17,5 +17,5 @@ week2  9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/
 week2  9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2128054019/)
 week2  10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/problem)
 week2  10.2[click here](https://www.hackerrank.com/challenges/java-hashset/problem)
-week2  11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/problem)
-week2  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/submissions/2128101398/)
+week3  11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/problem)
+week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/submissions/2128101398/)

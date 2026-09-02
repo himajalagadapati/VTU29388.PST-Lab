@@ -13,3 +13,4 @@ week2  7.1[click here](https://leetcode.com/problems/remove-element/submissions/
 week2  7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2121602873/)
 week2  8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2128030123/)
 week2  8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2128040813/)
+week2  9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2128048140/)

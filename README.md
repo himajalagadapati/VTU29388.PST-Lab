@@ -11,3 +11,4 @@ week2  6.1[click here](https://leetcode.com/problems/build-array-from-permutatio
 week2  6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2121545934/)
 week2  7.1[click here](https://leetcode.com/problems/remove-element/submissions/2121569707/)
 week2  7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2121602873/)
+week2  8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2128030123/)

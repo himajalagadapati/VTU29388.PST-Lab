@@ -25,9 +25,11 @@ week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/1154-day-of-the-year) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/1154-day-of-the-year) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/himajalagadapati/VTU29388.PST-Lab/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 <!---LeetCode Topics End-->

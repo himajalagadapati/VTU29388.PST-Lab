@@ -15,3 +15,4 @@ week2  8.1[click here](https://leetcode.com/problems/maximum-subarray/submission
 week2  8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2128040813/)
 week2  9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2128048140/)
 week2  9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2128054019/)
+week2  10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/problem)

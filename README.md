@@ -22,7 +22,7 @@ week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-
 week3  12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/2128109655/)
 week3  12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2128112706/)
 week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
-
+week3  13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

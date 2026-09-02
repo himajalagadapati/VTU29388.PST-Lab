@@ -21,7 +21,7 @@ week3  11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time
 week3  11.2[click here](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/submissions/2128101398/)
 week3  12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/2128109655/)
 week3  12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2128112706/)
-
+week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
 
 
 <!---LeetCode Topics Start-->

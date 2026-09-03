@@ -23,7 +23,13 @@ week3  12.1[click here](https://leetcode.com/problems/day-of-the-year/submission
 week3  12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2128112706/)
 week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
 week3  13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
+week3  14.1[click here](https://leetcode.com/problems/largest-number/submissions/2129223358/)
 week3  14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
+
+
+
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

@@ -26,6 +26,11 @@ week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queu
 week3  13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
 week3  14.1[click here](https://leetcode.com/problems/largest-number/submissions/2129223358/)
 week3  14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
+                                                           UNIT= - 2
+week4  1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2129254569/)
+week4  1.2[click here](https://www.codechef.com/problems/LAPIN)
+week4  2.3[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+week4  2.4[click here](https://leetcode.com/problems/contains-duplicate/submissions/2129312357/)
 
 
 

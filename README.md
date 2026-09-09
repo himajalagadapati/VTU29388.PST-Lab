@@ -32,7 +32,15 @@ week4  1.2[click here](https://www.codechef.com/problems/LAPIN)
 week4  2.3[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 week4  2.4[click here](https://leetcode.com/problems/contains-duplicate/submissions/2129312357/)
 week4  3.5[click here](https://www.hackerrank.com/challenges/time-conversion/problem)
-
+week4  3.6[click here](https://leetcode.com/problems/move-zeroes/submissions/2135911265/)
+week4  4.7[click here](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+week4  4.8[click here](https://leetcode.com/problems/transpose-matrix/submissions/2135917201/)
+week4  5.9[click here](https://leetcode.com/problems/matrix-block-sum/submissions/2135919847/)
+week4  5.10[click here](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
+week5  1.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2135929530/)
+week5  1.2[click here](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+week5  2.3[click here](https://www.hackerrank.com/challenges/maxsubarray/problem)
+week5  2.4[click here](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2135938085/)
 
 
 

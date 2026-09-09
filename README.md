@@ -66,23 +66,23 @@ week7  3.5[click here](https://leetcode.com/problems/design-hashset/submissions/
 week7  3.6[click here](https://www.hackerrank.com/challenges/grading/problem)
 week7  4.7[click here](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
 week7  4.8[click here](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
-week7  5.9[click here](
-week7  5.10[click here]
-week7  1.1[click here]
-week7  1.1[click here]
-week7  1.1[click here]
-week7  1.1[click here]
-
-
-
-
-
-
-
-
-
-
-
+week7  5.9[click here](https://www.hackerrank.com/challenges/java-generics/problem)
+week7  5.10[click here](https://leetcode.com/problems/throne-inheritance/submissions/2136009904/)
+week8  1.1[click here](
+week8  1.2[click here]
+week8  2.3[click here]
+week8  2.4[click here]
+week8  3.5[click here]
+week8  3.6[click here]
+week8  4.7[click here]
+week8  4.8[click here]
+week8  5.9[click here]
+week8  5.10[click here]
+week8  2.4[click here]
+week8  2.4[click here]
+week8  2.4[click here]
+week8  2.4[click here]
+week8  2.4[click here]
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

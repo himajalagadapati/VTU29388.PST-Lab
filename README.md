@@ -26,7 +26,7 @@ week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queu
 week3  13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
 week3  14.1[click here](https://leetcode.com/problems/largest-number/submissions/2129223358/)
 week3  14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
-                                                           UNIT= - 2
+                                                           UNIT - 2
 week4  1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2129254569/)
 week4  1.2[click here](https://www.codechef.com/problems/LAPIN)
 week4  2.3[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -41,6 +41,45 @@ week5  1.1[click here](https://leetcode.com/problems/maximum-subarray/submission
 week5  1.2[click here](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 week5  2.3[click here](https://www.hackerrank.com/challenges/maxsubarray/problem)
 week5  2.4[click here](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2135938085/)
+week5  3.5[click here](https://leetcode.com/problems/string-to-integer-atoi/submissions/2135941086/)
+week5  3.6[click here](https://www.hackerrank.com/challenges/alternating-characters/problem)
+week5  4.7[click here](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2135946229/)
+week5  4.8[click here](https://leetcode.com/problems/find-and-replace-pattern/submissions/2135948761/)
+week5  5.9[click here](https://leetcode.com/problems/string-matching-in-an-array/submissions/2135955819/)
+week5  5.10[click here](
+week6  1.1[click here](https://www.hackerrank.com/challenges/string-similarity/problem)
+week6  1.2[click here](https://leetcode.com/problems/repeated-substring-pattern/submissions/2135963036/)
+week6  2.3[click here](https://www.hackerrank.com/challenges/two-strings/problem)
+week6  2.4[click here](https://leetcode.com/problems/rotate-string/submissions/2135968407/)
+week6  3.5[click here](https://www.hackerrank.com/challenges/mars-exploration/problem)
+week6  3.6[click here](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2135973202/)
+week6  4.7[click here](https://www.hackerrank.com/challenges/palindrome-index/problem)
+week6  4.8[click here](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2135979124/)
+week6  5.9[click here](https://leetcode.com/problems/longest-palindromic-substring/submissions/2135980980/)
+week6  5.10[click here](https://www.hackerrank.com/challenges/circular-palindromes/problem)
+                                                         UNIT - 3
+week7  1.1[click here](https://leetcode.com/problems/design-parking-system/submissions/2135991985/)
+week7  1.2[click here](
+week7  2.3[click here](https://leetcode.com/problems/design-underground-system/submissions/2135999168/)
+week7  2.4[click here](https://leetcode.com/problems/design-browser-history/submissions/2136000217/)
+week7  3.5[click here](https://leetcode.com/problems/design-hashset/submissions/2136001065/)
+week7  3.6[click here](https://www.hackerrank.com/challenges/grading/problem)
+week7  4.7[click here](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
+week7  4.8[click here](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
+week7  5.9[click here](
+week7  5.10[click here]
+week7  1.1[click here]
+week7  1.1[click here]
+week7  1.1[click here]
+week7  1.1[click here]
+
+
+
+
+
+
+
+
 
 
 

@@ -31,6 +31,7 @@ week4  1.1[click here](https://leetcode.com/problems/determine-if-string-halves-
 week4  1.2[click here](https://www.codechef.com/problems/LAPIN)
 week4  2.3[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 week4  2.4[click here](https://leetcode.com/problems/contains-duplicate/submissions/2129312357/)
+week4  3.5[click here](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 
 

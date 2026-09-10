@@ -26,6 +26,9 @@ week3  13.1[click here](https://www.hackerrank.com/challenges/java-priority-queu
 week3  13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
 week3  14.1[click here](https://leetcode.com/problems/largest-number/submissions/2129223358/)
 week3  14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
+
+
+
                                                            UNIT - 2
 week4  1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2129254569/)
 week4  1.2[click here](https://www.codechef.com/problems/LAPIN)
@@ -57,6 +60,9 @@ week6  4.7[click here](https://www.hackerrank.com/challenges/palindrome-index/pr
 week6  4.8[click here](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2135979124/)
 week6  5.9[click here](https://leetcode.com/problems/longest-palindromic-substring/submissions/2135980980/)
 week6  5.10[click here](https://www.hackerrank.com/challenges/circular-palindromes/problem)
+
+
+
                                                          UNIT - 3
 week7  1.1[click here](https://leetcode.com/problems/design-parking-system/submissions/2135991985/)
 week7  1.2[click here](
